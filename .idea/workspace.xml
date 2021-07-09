@@ -3,11 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="e8456d0a-9c03-413c-a670-c9698c587b3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,10 +39,33 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.frontend_betway.utilities" />
+      <recent name="com.frontend_betway.runner" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\caty2\IdeaProjects\frontend.betway\src\test" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="frontend.betway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.frontend_betway.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.frontend_betway.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.frontend_betway.runner.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -82,6 +113,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="framework structure - POM design" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="453" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625781016642">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="453" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1625781016642" />
     <state x="421" y="8" key="CommitChangelistDialog2" timestamp="1625777846423">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -90,6 +125,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="155" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1625776105015" />
+    <state width="1493" height="294" key="GridCell.Tab.0.bottom" timestamp="1625792073905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1625792073905" />
+    <state width="1493" height="294" key="GridCell.Tab.0.center" timestamp="1625792073905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1625792073905" />
+    <state width="1493" height="294" key="GridCell.Tab.0.left" timestamp="1625792073905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1625792073905" />
+    <state width="1493" height="294" key="GridCell.Tab.0.right" timestamp="1625792073905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1625792073905" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1625776086130">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -98,5 +149,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1625777853074" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1625782449002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1625782449002" />
   </component>
 </project>
